@@ -9,3 +9,9 @@ Millimeter wave (mmWave) systems need beam management to establish and maintain 
 # Results (Code of Proposed 2)
 ![image](https://github.com/BeechburgPieStar/beam-prediction/assets/107237593/65ee9f54-d675-4c58-8b4d-6239fcff80a3)
 
+# License / 许可证
+
+本项目基于自定义非商业许可证发布，禁止用于任何形式的商业用途。
+
+This project is distributed under a custom non-commercial license. Any form of commercial use is prohibited.
+
